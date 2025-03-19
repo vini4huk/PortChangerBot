@@ -1,13 +1,13 @@
 # PortChangerBot
 
-A Telegram bot designed for dynamic management of Apache ports. This bot empowers authorized users to modify the Apache port and review the port change history through simple Telegram commands.
+PortChangerBot is a Telegram bot designed for secure Apache port management. It allows authorized users to change Apache ports and view port history directly from Telegram.
 
-## Features
+## Features:
 
--   **Secure Apache Port Management:** Facilitates secure modification of Apache ports directly via Telegram.
--   **History Logging:** Maintains a detailed log of all port changes.
--   **Authentication:** Implements authentication via chat IDs to restrict access to authorized users.
--   **Robust Error Handling:** Incorporates error handling to ensure safe and reliable operations.
+* ✅ **Generate a new Apache port:** Easily generate and apply new Apache ports.
+* ✅ **Automatically update configuration and restart Apache:** Seamlessly updates Apache configuration and restarts the service.
+* ✅ **Log port changes for tracking:** Keeps a detailed log of all port changes for audit and tracking purposes.
+* ✅ **Simple setup and support for running as a system service:** Easy installation and configuration, with support for running as a systemd service for reliable background operation.
 
 ## Installation
 
